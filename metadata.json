@@ -1,0 +1,8 @@
+{
+  "name": "RuApp",
+  "description": "Полнофункциональный мессенджер с поддержкой групп, личных сообщений и кастомизации на базе Firebase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
