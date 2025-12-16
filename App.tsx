@@ -20,8 +20,8 @@ import {
   uploadBytes, 
   getDownloadURL 
 } from 'firebase/storage';
-import { auth, db, storage } from './firebase';
-import { UserProfile, Chat, Message } from './types';
+import { auth, db, storage } from './firebase.ts';
+import { UserProfile, Chat, Message } from './types.ts';
 import { 
   LogOut, 
   Settings, 
